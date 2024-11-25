@@ -11,7 +11,7 @@ const Admin = () => {
     return (
         <div>
             <h1>Admin Page</h1>
-            <p>Welcome to the main page of the app!</p>
+            <p>Welcome to the main page of the appsda!</p>
             <button onClick={goToAdmin}>Go to Main Page</button>  {/* Button that triggers navigation */}
         </div>
     );
